@@ -1,0 +1,14 @@
+Array
+(
+    [title] => Niclas
+    [brand] => Brattfors
+    [price] => 420
+    [image] => http://ellaror.se/wp-content/uploads/2015/10/niclas-soder1-300x298.jpg
+    [description] => DUNDER
+    [stores] => Array
+        (
+            [0] => 2
+            [1] => 3
+        )
+
+)
